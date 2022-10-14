@@ -82,4 +82,7 @@ Dana Hayes: nydane1@gmail.com
 
 ## License
 
-Columbia U. Engineering
+Columbia U. Engineering 
+--- 
+[BSD 2-Clause LicenseCopyright (c) 2022, digi-Borg
+All rights reserved.](/LICENSE) 
