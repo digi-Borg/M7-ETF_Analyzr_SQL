@@ -1,6 +1,8 @@
-# FinTech ETF Analysis Using Financial Database and Webapp
+# FinTech ETF Analysis Using a Financial Database and Webapp 
 
-*'Welcome to my FinTech project as an 'ETF Analyst to analyze the performance of an ETF portfolio'*
+![M7ReadMeTitle_Pic](./Images/M7RdMeTitle_Pic_2022-10-14180733.png)
+
+*'Welcome to my FinTech project as an Analyst to analyze the performance of an ETF portfolio'*
 
 ---
 
