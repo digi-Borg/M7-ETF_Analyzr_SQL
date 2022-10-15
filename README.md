@@ -4,9 +4,9 @@
 
 *'Welcome to my FinTech project as an Analyst to analyze the performance of an ETF portfolio'*
 
----
+#
+## Background 
 
-## Background
 This project constructs a program for analysts to research ETF's and ETF portfolios for investors. The increasing interest in passive investing made ETFs (exchange traded funds) popular for portfolios because they offer greater diversification by asset class than by selecting individual stocks. Individual securities of equities and fixed-income instruments require more active research time and greater risk individually than an ETF. It is a packaged portfolio of securities by asset class, index or theme. As such, ETFs offer more diversity as a package of securitized assets to build a portfolio. 
 
 The FinTech app technology in this program is utilized to analyze the performance of an ETF and an ETF portfolio. It proceeds through several steps to achieve its purpose by building a database using SQL; analyze individual ETF performance and as a group; optimize data access with SQL queries; build and evaluate an ETF portfolio; and deploy 'Voilà' as an interactive web application from Jupyter notebook. 
@@ -16,9 +16,8 @@ To facilitate communication between Python-based programs and databases SQLAlche
 This program gives users a step-by-step process to customize aggregation, utilize numerical data into visual plot charts for analyzing performance and allow clients to see it with convincing interactive visualizations for making investment decisions.
 
 
-
 ---
-
+#
 ## Technologies
 
 The software operates on python 3.9 with the installation package imports embedded with Anaconda3 installation. the tools that you need for this module, which include SQLAlchemy and Voilà. It includes 'PyViz' as a single platform for accessing multiple visualization libraries from the Python visualization package. Two PyViz libraries, hvPlot and bokeh are utilized for charting in this program. 
@@ -27,7 +26,7 @@ The software operates on python 3.9 with the installation package imports embedd
 
 * [SQLAlchemy](https://www.sqlalchemy.org/) .
 
-* [Voilà](https://voila.readthedocs.io/en/stable/index.html)
+* [Voilà](https://voila.readthedocs.io/en/stable/index.html) .
 
 * [pyviz hvplot](https://hvplot.holoviz.org/index.html#) .
 
@@ -47,14 +46,17 @@ from pathlib import Path
 
 'non-virtual environ use' [pip3 install jupyter] or 'virtual environ use' [conda install -m pip install bokeh] 
 
-1) Activate the Conda dev environment. 2) Run the following command: [conda list sqlalchemy] 
+SQL Confirmation procedure:
+1) Activate the Conda 'dev' environment. 2) Run the following command: [conda list sqlalchemy] 
 
+Voilà Installation:
 1) Activate your Conda 'dev' environment. 2) Run the following command: [conda install -c conda-forge voila]; 3) Confirm the installation succeeded by running the command: [conda list voila]
 
 ```
 
 ---
-# Usage
+#
+## Usage
 
 This application is launched from web-based JupyterLab utilizing Pandas which is designed for data analysis to write and read code in an IDE and review results through the Python libraries. The Anaconda3 software application includes the Pandas libraries; **'PyViz' as a single platform for accessing PyViz libraries, including hvPlot.** They are utilized for high-level plot charts in this program from the Python visualization package. **HoverTool**is imported from the Bokeh library for **hvplot**. It utilizes data frames and plot charts in an integrated Conda development environment. 
 
@@ -81,10 +83,11 @@ etf_analyzer.ipynb
 Dana Hayes: nydane1@gmail.com
 
 ---
-
+#
 ## License
 
 Columbia U. Engineering 
---- 
+
+# 
 [BSD 2-Clause LicenseCopyright (c) 2022, digi-Borg
 All rights reserved.](/LICENSE) 
