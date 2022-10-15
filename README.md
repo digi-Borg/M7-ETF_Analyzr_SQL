@@ -2,9 +2,9 @@
 
 ![M7ReadMeTitle_Pic](./Images/M7RdMeTitle_Pic_2022-10-14180733.png)
 
-*'Welcome to my FinTech project as an Analyst to analyze the performance of an ETF portfolio'*
+*'Welcome to my FinTech project as an Analyst to examine the performance of an ETF portfolio'*
 
-#
+--- 
 ## Background 
 
 This project constructs a program for analysts to research ETF's and ETF portfolios for investors. The increasing interest in passive investing made ETFs (exchange traded funds) popular for portfolios because they offer greater diversification by asset class than by selecting individual stocks. Individual securities of equities and fixed-income instruments require more active research time and greater risk individually than an ETF. It is a packaged portfolio of securities by asset class, index or theme. As such, ETFs offer more diversity as a package of securitized assets to build a portfolio. 
